@@ -12,7 +12,33 @@
 
 **MENTOR NAME**: NEELA SANTHOSH KUMAR
 
+# OUTPUTS
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+<img src="https://github.com/user-attachments/assets/08592081-0f41-48ee-9677-813509b432ff" alt="Image" width="400">
+<img src="https://github.com/user-attachments/assets/d4459f39-fd35-46ab-a1d1-8dccf413db74" alt="Image" width="400">
+<img src="https://github.com/user-attachments/assets/e10ee4f5-a458-439e-89ae-6f48881701c7" alt="Image" width="400">
+<img src="https://github.com/user-attachments/assets/fc671f61-08d0-46c3-bcd4-48a8e9d7a343" alt="Image" width="400">
+
+<img src="https://github.com/user-attachments/assets/6b8a1f4d-13e8-4ecd-9f68-deea888dd974" alt="Image" width="400">
+<img src="https://github.com/user-attachments/assets/ee91e984-ef28-49a4-960b-07bdc3a5e83e" alt="Image" width="400">
+<img src="https://github.com/user-attachments/assets/cc409350-e472-4971-b88f-a5ae7e3df9ba" alt="Image" width="400">
+<img src="https://github.com/user-attachments/assets/67c07eb6-726c-4783-8602-6d0f05e18d70" alt="Image" width="400">
+
+<img src="https://github.com/user-attachments/assets/e56dff2f-e732-442e-a7fb-f5c95da8e826" alt="Image" width="400">
+<img src="https://github.com/user-attachments/assets/d5cc7b71-5284-401d-8e78-b948a33b1d0c" alt="Image" width="400">
+<img src="https://github.com/user-attachments/assets/f523ce78-98e1-4d51-9e8f-617e1ebc9caf" alt="Image" width="400">
+<img src="https://github.com/user-attachments/assets/90743db8-69de-400e-939f-8ca671d91c1c" alt="Image" width="400">
+
+<img src="https://github.com/user-attachments/assets/20f94e60-6539-45cd-b9e2-fccdbaa9be63" alt="Image" width="400">
+<img src="https://github.com/user-attachments/assets/0553106f-c1e1-4195-9b09-cb63d0f0c2b5" alt="Image" width="400">
+<img src="https://github.com/user-attachments/assets/5f7a374b-1250-47bf-b6e4-e61b63f105fc" alt="Image" width="400">
+
+</div>
+
 ## Project Overview
+
 The **Real-Time Collaborative Document Editor** is a web application that allows users to create and edit documents. The project is currently in development, with the following features implemented so far:
 - **User Authentication**: Users can log in or sign up securely.
 - **Document Creation and Saving**: Users can create documents and save them to a MongoDB database.
@@ -66,3 +92,5 @@ The next phase of development involves enabling real-time collaborative editing 
 Ensure you have the following installed:
 - Node.js
 - MongoDB
+
+
