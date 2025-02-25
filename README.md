@@ -87,10 +87,95 @@ The next phase of development involves enabling real-time collaborative editing 
 ---
 
 ## Installation and Setup
+---
 
-### Prerequisites
-Ensure you have the following installed:
-- Node.js
-- MongoDB
+### **Prerequisites**
+Ensure you have the following installed on your system:
+1. **Node.js** (v14 or above) - [Download Node.js](https://nodejs.org/)
+2. **MongoDB** - [Install MongoDB](https://www.mongodb.com/try/download/community)
+3. **Git** - [Install Git](https://git-scm.com/)
+
+---
+
+### **Step 1: Clone the Repository**
+1. Open your terminal/command prompt.
+2. Run the following command to clone the repository:
+   ```bash
+   git clone https://github.com/Sachinkumar8439/RealTimeCollaborative-document-editor.git
+   ```
+3. Navigate to the project directory:
+   ```bash
+   cd RealTimeCollaborative-document-editor
+   ```
+
+---
+
+### **Step 2: Install Dependencies**
+
+#### For the Server:
+
+1. Install the required dependencies:
+   ```bash
+   npm install
+   ```
+
+#### For the Client:
+2. Install the required dependencies:
+   ```bash
+   npm install
+   ```
+
+---
+
+### **Step 3: Configure Environment Variables**
+1. Create a `.env` file in the `server` directory.
+2. Add the following environment variables:
+   ```env
+   MONGO_URI=your-mongodb-uri
+   ```
+   Replace `your-mongodb-uri` with your MongoDB connection string.
+
+---
+
+### **Step 4: Start MongoDB**
+1. Ensure MongoDB is running locally.  
+   On Linux/Mac:
+   ```bash
+   mongod
+   ```
+   On Windows, start the MongoDB service from the Services Manager.
+
+---
+
+### **Step 5: Run the Application**
+
+#### Start the Server:
+2. Start the server:
+   ```bash
+   node server.js
+   ```
+
+#### Start the Client:
+1. Start the client:
+   ```bash
+   npm start
+   ```
+
+---
+
+### **Step 6: Access the Application**
+1. Open your browser.
+2. Navigate to:
+   ```plaintext
+   http://localhost:3000
+   ```
+
+---
+
+
+
+
+   
+
 
 
